@@ -1,7 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Jaiden! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/LassairJ/LABURL)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JaidenLassair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jaiden-lassair/
 
 <!--
-**LassairJ/LassairJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lassairj/lassairj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
